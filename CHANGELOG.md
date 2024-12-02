@@ -2,6 +2,12 @@
 
 Todos los cambios relevantes en el repositorio se van a ir documentando en este archivo.
 
+## [1.1.0] - 2024-12-01
+fix: size de los procesos 8 y 9
+feat: se agregan joins para asegurar resultados
+fix: se reducen los IO para agilizar pruebas
+fix: typo en CHANGELOG
+
 ## [1.0.2] - 2024-11-26
 fix: prueba fs y the emptiness machine JNZ
 
