@@ -2,6 +2,9 @@
 
 Todos los cambios relevantes en el repositorio se van a ir documentando en este archivo.
 
+## [1.1.1] - 2024-12-07
+fix: retardo en IO MEM_DINAMICA_PROC_FIN
+
 ## [1.1.0] - 2024-12-01
 fix: size de los procesos 8 y 9
 feat: se agregan joins para asegurar resultados
